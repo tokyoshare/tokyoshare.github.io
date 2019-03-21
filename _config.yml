@@ -1,25 +1,15 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Tech 5.0
-tagline:          'Technology 5.0'
-description:      'Tokyoshare'
-url:              https://tokyoshare.github.io
-baseurl:          /
-
-author:
-  name:           'HuyHQ'
-  url:            https://twitter.com/huyhq
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/tokyoshare
+permalink: /:categories/:title.html
+url: "https://tokyoshare.github.io"
+full_name: "Ho Quoc Huy"
+first_name: "Ho"
+last_name: "Quoc Huy"
+blog_title: "Tokyo Share"
+author_img_name_path: "/images/users/nmv.png"
+disqus_shortname: "H2Q"
+copyright_year: "2019"
+google_analytics_code: ""
+aboutme: "Share to make the world better"
+twitter: ""
+github: "tokyoshare"
+facebook: "huyho85"
+linkined_url: ""
