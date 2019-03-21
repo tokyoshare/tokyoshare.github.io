@@ -1,8 +1,8 @@
 permalink: /:categories/:title.html
 url: "https://tokyoshare.github.io"
 full_name: "Tokyo Share"
-first_name: "Ho"
-last_name: "Quoc Huy"
+first_name: "Tokyo"
+last_name: "Share"
 blog_title: "Tokyo Share"
 author_img_name_path: "/images/users/nmv.png"
 disqus_shortname: "H2Q"
