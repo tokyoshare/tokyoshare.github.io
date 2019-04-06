@@ -25,9 +25,9 @@ Bạn sẽ thấy có rất nhiều loại cli đi kèm với các thương hi�
 
 Tại sao phải là cli?
 
--vì công việc của bạn lặp đi lặp lại.
--vì nó gọn nhẹ, dễ viết, dễ sửa đổi.
--vì bạn có thể bật nó lên để nghịch trong giờ làm việc mà các sếp vẫn nghĩ bạn là nhân viên chăm chỉ :D
+1. vì công việc của bạn lặp đi lặp lại.
+2. vì nó gọn nhẹ, dễ viết, dễ sửa đổi.
+3. vì bạn có thể bật nó lên để nghịch trong giờ làm việc mà các sếp vẫn nghĩ bạn là nhân viên chăm chỉ :D
 
 OK, vậy chúng ta bắt đầu nào. Hôm nay mình sẽ hướng dẫn cho các bạn viết một cái cli Todo, để quản lý các task của bản thân.
 
