@@ -89,6 +89,10 @@ h1 {
 #logo {
 	float: left;
 	font-size: 40px;
+	font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+    font-weight: bold;
+    font-style: normal;
+    letter-spacing: -.003em;
 }
 
 #links a {
@@ -100,6 +104,12 @@ h1 {
     color: #D23636;
     text-decoration: none;
     font-family: "Doppio One";
+}
+
+a#logo_docs {
+	text-decoration: line-through;
+    text-decoration-color: rgba(0, 0, 0, 0.33);
+    color: rgba(0, 0, 0, 0.25);
 }
 
 
