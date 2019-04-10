@@ -220,6 +220,7 @@ margin: 20px 5px 0px 0px;
     text-align: center;
     width: 190px;
     color: #687a86;
+	font-weight: bold;
 }
 
 #side-bar #tags {
