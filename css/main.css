@@ -48,6 +48,8 @@ a {
 	font-size: 100%;*/
 	color: #00A550;
 	text-decoration: none;
+	font-size: inherit;
+    font-family: inherit;
 }
 
 a:hover {
@@ -217,23 +219,35 @@ margin: 20px 5px 0px 0px;
 
 #page-title {
 	margin-top: 0px;
-	padding-top: 0px;
-	font-size: 30px;
+    padding-top: 0px;
+    font-size: 30px;
+    font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+    font-weight: bold;
+    font-style: normal;
+    letter-spacing: -.003em;
+    text-decoration: underline;
+    text-decoration-color: #5cb767;
 }
 
 #page {
 	margin-top: 20px;
-width: 75%;
-float: left;
-padding-left: 3%;
- border-left: 1px dashed #ddd; 
-font-size: 1.15em;
-overflow: hidden;
-/*background: none repeat scroll 0% 0% #FFF;
-box-shadow: 5px 8px 7px rgba(99, 60, 60, 0.15);*/
-border-radius: 3px;
-padding: 10px;
-//border: solid 1px rgba(99, 103, 106, 0.22);
+	width: 75%;
+	float: left;
+	padding-left: 3%;
+	border-left: 1px dashed #ddd; 
+	font-size: 1.15em;
+	overflow: hidden;
+	/*background: none repeat scroll 0% 0% #FFF;
+	box-shadow: 5px 8px 7px rgba(99, 60, 60, 0.15);*/
+	border-radius: 3px;
+	padding: 10px;
+	/*border: solid 1px rgba(99, 103, 106, 0.22);*/
+	font-family: Cambria,"Times New Roman",Times,serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 21px;
+	line-height: 1.58;
+	letter-spacing: -.003em;
 }
 
 .tag {
