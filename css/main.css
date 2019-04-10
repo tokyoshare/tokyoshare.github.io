@@ -132,6 +132,11 @@ a#logo_docs {
 	font-size:16px;
 }
 
+#content-home {
+	margin: 0px 8% 0px;
+	font-size:16px;
+}
+
 #footer {
 	margin: 30px 0px 0px 0px;
 	padding: 10px 0px 10px 0px;
