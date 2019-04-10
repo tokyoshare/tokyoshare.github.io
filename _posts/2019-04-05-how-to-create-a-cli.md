@@ -10,12 +10,15 @@ image: /images/blog/todo.jpg
 Thực ra thì mình là một người rất thích viết code, nhưng lại rất lười viết hướng dẫn sử dụng cho người khác. Không biết đây có phải là căn bệnh chung của những dev nhiều kinh nghiệm ở VN không =)). Tuy nhiên, hôm trước tự nhiên thằng cu em cùng cty (thực ra là cùng cty khách hàng mình) nó đăng một bài viết hướng dẫn cách viết một cli bằng python lên blog của nó. Đọc cũng thấy hay, nên mình quyết định sẽ bắt chước nó viết một cái cli =)). Mình sẽ để link bài viết của hắn ở cuối bài để bạn nào muốn tham khảo thì có thể đọc.
 
 Bây giờ, quay về chủ đề chính. Vậy CLI là gì và nó có tác dụng như thế nào? Tra wiki xem nào:
-
+```
 *A command-line interface or command language interpreter (CLI), also known as command-line user interface, console user interface and character user interface (CUI), is a means of interacting with a computer program where the user (or client) issues commands to the program in the form of successive lines of text.*
+```
 
 Ok, vậy là rõ rồi nhé. 
 
+```
 *CLI là viết tắt của command-line interface hoặc command language interpreter, hay còn được gọi là giao diện người dùng bằng dòng lệnh, nghĩa là người dùng có thể tương tác với máy tính bằng cách gõ các lệnh lên màn hình console thay vì giao diện trực quan (có lẽ cũng vì thế nó được gọi là CÙI-character user interface)*
+```
 
 Vậy CLI dùng để làm gì? 
 
