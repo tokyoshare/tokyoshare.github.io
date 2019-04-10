@@ -3,7 +3,7 @@ layout: blog
 title: Javascript Tips-Lưu base64 string thành file
 category: blog
 tags: [NodeJS, CLI, Todo]
-summary: Cách để tạo CLI trong một nốt nhạc
+summary: Cách để convert ba64 thành file
 image: /images/blog/tip.jpg
 ---
 Thông thường, người ta sẽ convert một file thành một chuỗi base64 để truyền qua mạng. Tuy nhiên, có đôi lúc bạn cần phải convert một chuỗi base64 lại thành một file. Hôm nay mình sẽ hướng dẫn các bạn cách làm điều đó.
