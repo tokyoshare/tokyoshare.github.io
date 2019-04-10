@@ -1,9 +1,9 @@
 permalink: /:categories/:title.html
 url: "https://tokyoshare.github.io"
-full_name: "Tokyo Share"
-first_name: "Tokyo"
-last_name: "Share"
-blog_title: "CODE BUG"
+full_name: "Code & Bug"
+first_name: "CODE"
+last_name: "BUG"
+blog_title: "CODE&BUG"
 author_img_name_path: "/images/users/user.jpg"
 disqus_shortname: "tokyoshare"
 copyright_year: "2019"
