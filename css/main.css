@@ -208,8 +208,6 @@ margin: 20px 5px 0px 0px;
 #side-bar #tags {
 
 	margin: 20px 0px 0px 0px;
-	border-radius: 10px;
-    background-color: #bb0101;
 }
 
 #side-bar #date {
@@ -254,7 +252,10 @@ blockquote{
 	padding-left: 20px;
 }
 
-.tag { background-color: #008080}
+.tag { 
+	border-radius: 10px;
+    background-color: #bb0101;
+}
 
 
 /****** Media Queries For Adaptive Layouts******/
