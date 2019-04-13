@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Javascript Tips-Lưu base64 string thành file
-category: blog
+category: dev
 tags: [NodeJS, CLI, Todo]
 summary: Cách để convert ba64 thành file
 image: /images/blog/tip.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Javascript Tips-Decapitalize một string
-category: blog
+category: dev
 tags: [NodeJS, CSV, JSON]
 summary: Cách để chuyển chữ cái đầu tiên của string thành dạng chữ thường
 image: /images/blog/decapitalize1.jpg

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Cách để tạo CLI trong 15 phút (Phần I)
-category: blog
+category: dev
 tags: [NodeJS, CLI, Todo]
 summary: Cách để tạo CLI trong một nốt nhạc
 image: /images/blog/todo.jpg

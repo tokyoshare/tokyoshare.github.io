@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Javascript Tips-Check một string là uppercase hay là lowercase bằng 1 dòng code
-category: blog
+category: dev
 tags: [NodeJS, CSV, JSON]
 summary: Cách để check một string là uppercase hay là lowercase bằng 1 dòng code
 image: /images/blog/up-low.png

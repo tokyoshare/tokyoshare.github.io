@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Javascript Tips-Convert CSV file thành JSON
-category: blog
+category: dev
 tags: [NodeJS, CSV, JSON]
 summary: Cách để convert file csv thành JSON
 image: /images/blog/csv.png
