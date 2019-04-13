@@ -126,8 +126,8 @@ h1 {
   text-decoration: none;
 }
 
-#menu ul li a:hover:not(.active) {
-  background-color: #111;
+#menu ul li a:hover {
+  color: #ffae16;
 }
 
 #links a {
