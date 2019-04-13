@@ -137,6 +137,12 @@
 .icon-github-sign:before {
   content: "z"; }
 
+.icon-medium:before {
+  background-image: "./svg/medium.svg"; 
+  width: 14px;
+  height: 14px;
+}
+
 .icon-pinterest:before {
   content: "n"; }
 
