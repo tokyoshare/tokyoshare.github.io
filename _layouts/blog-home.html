@@ -41,10 +41,6 @@
 	<div id='content-home'>
 		<div id='posts'>
 			<ul>
-				<!-- {% set blogs = [] %}
-				{% blogs.extend(site.categories.blog) %}
-				{% blogs.extend(site.categories.dev) %}
-				{% blogs.extend(site.categories.aws) %} -->
 				{% for post in site.categories.blog %}
 				<li class='post'>
 					{% if post.image %}
