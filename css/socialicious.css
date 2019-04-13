@@ -140,7 +140,7 @@
 .icon-medium {
   width: 13px;
   height: 13px;
-  background-image: url(./svg/medium.svg);
+  background-image: url("../svg/medium.svg");
 }
 
 .icon-pinterest:before {
