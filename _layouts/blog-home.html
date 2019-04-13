@@ -41,7 +41,7 @@
 	<div id='content-home'>
 		<div id='posts'>
 			<ul>
-				{% set blogs = [] %}
+				{% blogs = [] %}
 				{% blogs.extend(site.categories.blog) %}
 				{% blogs.extend(site.categories.dev) %}
 				{% blogs.extend(site.categories.aws) %}
