@@ -137,10 +137,10 @@
 .icon-github-sign:before {
   content: "z"; }
 
-.icon-medium:before {
-  background-image: "./svg/medium.svg"; 
-  width: 14px;
-  height: 14px;
+.icon-medium {
+  width: 13px;
+  height: 13px;
+  background-image: url(./svg/medium.svg);
 }
 
 .icon-pinterest:before {
