@@ -56,6 +56,36 @@
 					</div>
 				</li>
 				{% endfor %}
+				{% for post in site.categories.dev %}
+				<li class='post'>
+					{% if post.image %}
+					<a href='{{post.url}}'><img class='post-image' src="{{post.image}}" /></a>
+					{% endif %}
+					<div class="postcontent">
+						<a href='{{post.url}}'>
+							<h1 class='post-title'>{{post.title}}</h1>
+						</a>
+						<div class='post-date'>{{ post.date | date: "%B %d, %Y"}}</div>
+
+						<div class='post-content'>{{post.summary}}</div>
+					</div>
+				</li>
+				{% endfor %}
+				{% for post in site.categories.aws %}
+				<li class='post'>
+					{% if post.image %}
+					<a href='{{post.url}}'><img class='post-image' src="{{post.image}}" /></a>
+					{% endif %}
+					<div class="postcontent">
+						<a href='{{post.url}}'>
+							<h1 class='post-title'>{{post.title}}</h1>
+						</a>
+						<div class='post-date'>{{ post.date | date: "%B %d, %Y"}}</div>
+
+						<div class='post-content'>{{post.summary}}</div>
+					</div>
+				</li>
+				{% endfor %}
 			</ul>
 		</div>
 		<div style='clear:both'></div>
