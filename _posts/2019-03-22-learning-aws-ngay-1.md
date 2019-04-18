@@ -53,7 +53,7 @@ Lộ trình này được thiết kế dành cho **những cá nhân đang muố
 
 
 
-**2. Architect (Kiến trúc)**:
+**2. Architect (Kiến trúc hệ thống)**:
 
 Lộ trình này được thiết kế cho **các kiến trúc sư giải pháp, kỹ sư thiết kế giải pháp **và tất cả những ai muốn **tìm hiểu cách thiết kế ứng dụng và hệ thống trên AWS**.  
 
