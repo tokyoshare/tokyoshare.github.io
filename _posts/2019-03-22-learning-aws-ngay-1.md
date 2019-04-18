@@ -17,9 +17,9 @@ Và cloud computing (cụ thể là AWS) xuất hiện để trả lời cho câ
 
 Bây giờ bạn hãy nhìn sơ qua về những services mà AWS có thể cung cấp cho chúng ta:
 
+![](./images/blog/aws1.jpg)
 
-
-
+![](./images/blog/aws2.jpg)
 
 Những dịch vụ này giúp doanh nghiệp tiết kiệm nhiều thời gian và chi phí trong việc phát triển và vận hành các sản phẩm/dịch vụ trên nền tảng internet. Nó ngày càng đóng vai trò sống còn cho nhiều doanh nghiệp. 
 
