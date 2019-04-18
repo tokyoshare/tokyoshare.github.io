@@ -23,7 +23,7 @@ Bây giờ bạn hãy nhìn tổng quan về những services mà AWS có thể 
 
 Những dịch vụ này giúp doanh nghiệp tiết kiệm nhiều thời gian và chi phí trong việc phát triển và vận hành các sản phẩm/dịch vụ trên nền tảng internet. Nó ngày càng đóng vai trò sống còn cho nhiều doanh nghiệp. 
 
-Vì nó quan trọng thế, nên nếu bạn muốn làm thì bạn phải biết, mà muốn biết thì bắt buộc phải học chứ chẳng ai lại đi giao số mạng của cả doanh nghiệp cho những tay gà mờ được. Và vì thế Amazon cung cấp các gói chứng chỉ cho những người học, để bạn và doanh nghiệp biết bạn đang ở đâu để làm công việc phù hợp với trình độ và năng lực của mình. Chúng ta gọi đó là hệ thống chứng chỉ AWS (AWS Certifications).
+Vì nó quan trọng thế, nên nếu bạn muốn làm thì bạn phải biết, mà muốn biết thì bắt buộc phải học chứ chẳng ai lại đi giao tính mạng của cả doanh nghiệp cho những tay gà mờ được. Và vì thế Amazon cung cấp các gói chứng chỉ cho những người học, để bạn và doanh nghiệp biết bạn đang ở đâu để làm công việc phù hợp với trình độ và năng lực của mình. Chúng ta gọi đó là hệ thống chứng chỉ AWS (AWS Certifications).
 
 # AWS Cerifications
 
