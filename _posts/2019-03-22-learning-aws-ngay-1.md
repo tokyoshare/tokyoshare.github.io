@@ -33,13 +33,13 @@ Hiện nay, hệ thống chứng chỉ của AWS bao gồm 4 cấp bậc tuỳ t
 
 **Foundational:** Dành cho những người sử dụng AWS khoảng tầm 6 tháng, biết cơ bản về AWS.
 
-**Associate:** Dành cho những người có kinh nghiệm tầm 1 năm sử dùng và giải quyết các vấn đề và thực thi các giải pháp sử dụng AWS.
+**Associate:** Dành cho những người có kinh nghiệm tầm 1 năm sử dụng và giải quyết các vấn đề liên quan cũng như thực thi các giải pháp sử dụng AWS.
 
 **Professional:** Dành cho những người có tầm 2 năm kinh nghiệm về thiết kế, vận hành và đưa ra các giải pháp sử dụng AWS.
 
-**Specialty:** Dùng cho các chuyên gia, những người có kinh nghiệm cực kì sâu sắc về AWS.
+**Specialty:** Dùng cho các chuyên gia, những người có kinh nghiệm cực kì sâu sắc về một mảng chuyên biệt trên AWS.
 
-Tuy nhiên trong từng cấp độ đó, thì nó lại chia thành nhiều loại chứng chỉ con. Ví dụ như cấp độ Associate thì bạn có thể lựa chọn học và thi chứng chỉ Solutions Architect, Developer hoặc SysOps Administor. Sang cấp độ Professional thì bạn có thể lựa chọn thi chứng chỉ Solution Architect Professional hoặc DevOps Engineer Professional. Các chứng chỉ này tuỳ vào sở thích và sở trường của từng người để chúng ta có thể lựa chọn care path (tạm gọi là lộ trình) cho bản thân mình. 
+Tuy nhiên trong từng cấp độ đó, thì nó lại chia thành nhiều loại chứng chỉ con. Ví dụ như cấp độ Associate thì bạn có thể lựa chọn học và thi chứng chỉ Solutions Architect, Developer hoặc SysOps Administor. Sang cấp độ Professional thì bạn có thể lựa chọn thi chứng chỉ Solution Architect Professional hoặc DevOps Engineer Professional v.v... Các chứng chỉ này tuỳ vào sở thích và sở trường của từng người để chúng ta có thể lựa chọn care path (tạm gọi là lộ trình) cho bản thân mình. 
 
 # Lộ trình
 
