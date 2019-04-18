@@ -29,7 +29,7 @@ Vì nó quan trọng thế, nên nếu bạn muốn làm thì bạn phải biế
 
 ![](/images/blog/aws3.jpg)
 
-Hiện nay, hệ thống chứng chỉ của AWS bao gồm 4 cấp bậc tuỳ thuộc vào kinh nghiệm sử dụng AWS của từng người. Gồm:
+Hiện nay, hệ thống chứng chỉ của AWS bao gồm 4 cấp bậc, tuỳ thuộc vào kinh nghiệm sử dụng AWS của từng người:
 
 **Foundational:** Dành cho những người sử dụng AWS khoảng tầm 6 tháng, biết cơ bản về AWS.
 
