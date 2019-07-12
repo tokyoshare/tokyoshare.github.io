@@ -107,7 +107,7 @@ class Component extends React.Component{
 }
 ```
 
-Nếu như thay dùng thẻ div thay vì React Fragment, thì kết quả render sẽ ra như thế này:
+Nếu như ta dùng thẻ div thay vì React Fragment, thì kết quả render sẽ ra như thế này:
 
 ```html
 <div class="main">
@@ -148,7 +148,7 @@ Tuy nhiên, vì chúng ta dùng Fragment, nên kết quả sẽ render ra như s
 }
 ```
 
-Bạn đã thấy sự khác biệt chưa. Thẻ React Fragment nó sẽ cho phép react render content bên trong nó ra mức ngang hàng với thằng cha của nó. Code nhìn "sạch" hơn và làm css cũng sẽ đỡ vất hơn nhiều.
+Bạn đã thấy sự khác biệt chưa. Thẻ React Fragment nó sẽ cho phép react render content bên trong nó ra mức ngang hàng với component cha của nó. Code nhìn "sạch" hơn và làm css cũng sẽ đỡ vất hơn nhiều.
 
 ※ Một lưu ý nhỏ, là thẻ <React.Fragment> chúng ta có thể khai báo bằng kiểu thẻ đóng mở `<></>` . Tuy nhiên mình khuyên các bạn không nên lạm dụng kiểu này, vì khó để check code hơn
 
