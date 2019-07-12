@@ -10,7 +10,7 @@ image: /images/blog/react-js.png
 
 Khi lập trình ReactJS, đoạn chương trình sau sẽ bị lỗi lúc biên dịch:
 
-```react
+```javascript
 class ChilComponent extends React.Component {
     render() {
         return (
@@ -27,7 +27,7 @@ Nguyên nhân là hàm `return` của React luôn yêu cầu phải đặt nội
 
 Ví dụ, đoạn mã trên nếu chúng ta đặt vào một thẻ đóng mở <div></div> như sau, thì nó sẽ hết lỗi:
 
-```react
+```javascript
 class ChilComponent extends React.Component {
     render() {
         return (
@@ -44,7 +44,7 @@ class ChilComponent extends React.Component {
 
 Tuy nhiên, thẻ đóng mở được thêm vào  này là điều chúng ta không thực sự mong muốn. Vì cấu trúc của chương trình ngày càng phức tạp, thì số lượng component và phân cấp của component ngày càng nhiều hơn. Hậu quả là, khi ReactJS render ra html, bạn sẽ rơi vào một "hố đen phân cấp" kiểu như này:
 
-```html
+```javascript
 <div class="level1">
     <div class="level2">
         <div class="level3">
@@ -82,7 +82,7 @@ Vậy, cách giải quyết vấn đề này là gì, rõ ràng là nó bị sin
 
 React Fragement được release vào cuối năm 2018 React v 16.2.0. Cách sử dụng nó hết sức đơn giản:
 
-```react
+```javascript
 class ChildComponent extends React.Component {
     render() {
         return (
@@ -109,7 +109,7 @@ class Component extends React.Component{
 
 Nếu như thay dùng thẻ div thay vì React Fragment, thì kết quả render sẽ ra như thế này:
 
-```html
+```javascript
 <div class="main">
     <div className="topnav"/>
     <div>
@@ -130,7 +130,7 @@ Nếu như thay dùng thẻ div thay vì React Fragment, thì kết quả render
 ```
 
 Tuy nhiên, vì chúng ta dùng Fragment, nên kết quả sẽ render ra như sau:
-```html
+```javascript
 <div class="main">
     <div className="topnav"/>
     <div className="header"/>
@@ -145,8 +145,6 @@ Tuy nhiên, vì chúng ta dùng Fragment, nên kết quả sẽ render ra như s
 	.footer{}
 }
 ```
-
-</div> 
 
 Bạn đã thấy sự khác biệt chưa. Thẻ React Fragment nó sẽ cho phép react render content bên trong nó ra mức ngang hàng với thằng cha của nó. Code nhìn "sạch" hơn và làm css cũng sẽ đỡ vất hơn nhiều.
 
