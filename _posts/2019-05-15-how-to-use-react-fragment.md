@@ -23,7 +23,7 @@ class ChilComponent extends React.Component {
 }
 ```
 
-Nguyên nhân là hàm `return` của React luôn yêu cầu phải đặt nội dung bạn muốn render vào trong một thẻ đóng mở. 
+Nguyên nhân là vì hàm `return` của React luôn yêu cầu phải đặt nội dung bạn muốn render vào trong một thẻ đóng mở. 
 
 Ví dụ, đoạn mã trên nếu chúng ta đặt vào một thẻ đóng mở <div></div> như sau, thì nó sẽ hết lỗi:
 
@@ -62,7 +62,7 @@ Tuy nhiên, thẻ đóng mở được thêm vào  này là điều chúng ta kh
 
 Việc phân cấp thẻ div như thế này, thứ nhất là nhìn code html được render ra nhìn nó rất tệ, nhưng điều quan trọng hơn cả, là khiến cho việc bạn thiết kế css gần như sẽ thất bại về mặt tổ chức. Bạn thử hình dung lúc muốn truy cập vào một class name ở thẻ div trong cùng của "hố đen phân cấp kia" thì css của bạn cũng sẽ hoành tráng không kém:
 
-```scss
+```
 .level1{
     .level2{
         ...
