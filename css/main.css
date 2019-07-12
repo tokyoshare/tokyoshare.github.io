@@ -100,7 +100,7 @@ h1 {
 #logo {
   float: left;
   font-size: 40px;
-  font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
   font-weight: bold;
   font-style: normal;
   letter-spacing: -.003em;
@@ -273,7 +273,7 @@ box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);*/
   margin-top: 0;
   padding-top: 0;
   font-size: 30px;
-  font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
   font-weight: bold;
   font-style: normal;
   letter-spacing: -.003em;
@@ -294,7 +294,7 @@ box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);*/
   border-radius: 3px;
   padding: 10px;
   /*border: solid 1px rgba(99, 103, 106, 0.22);*/
-  font-family: Cambria,"Times New Roman",Times,serif;
+  font-family: Cambria, "Times New Roman", Times, serif;
   font-weight: 400;
   font-style: normal;
   font-size: 21px;
@@ -329,6 +329,7 @@ blockquote {
     width: 220px;
   }
 }
+
 @media only screen and (max-width: 1366) {
   #posts ul li {
     width: 273px;
@@ -344,7 +345,8 @@ blockquote {
 }
 
 /* Tables - Landscape */
-@media only screen and (max-device-width:1024px), only screen and (max-width: 1024px) {
+@media only screen and (max-device-width:1024px),
+only screen and (max-width: 1024px) {
   #posts ul li {
     width: 265px;
   }
@@ -352,14 +354,17 @@ blockquote {
 }
 
 /* Tables - Verticle */
-@media only screen and (max-device-width:768px), only screen and (max-width: 768px) {
+@media only screen and (max-device-width:768px),
+only screen and (max-width: 768px) {
   #posts ul li {
     width: 300px;
   }
 }
 
 /* Smart Phone */
-@media only screen and (max-device-width:600px), only screen and (max-width: 600px) {
+@media only screen and (max-device-width:600px),
+only screen and (max-width: 600px) {
+
   #links,
   #logo {
     float: none;
