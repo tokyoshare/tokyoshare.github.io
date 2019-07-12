@@ -10,7 +10,7 @@ image: /images/blog/react-js.png
 
 Khi lập trình ReactJS, đoạn chương trình sau sẽ bị lỗi lúc biên dịch:
 
-```javascript
+```react
 class ChilComponent extends React.Component {
     render() {
         return (
@@ -27,7 +27,7 @@ Nguyên nhân là vì hàm `return` của React luôn yêu cầu phải đặt n
 
 Ví dụ, đoạn mã trên nếu chúng ta đặt vào một thẻ đóng mở <div></div> như sau, thì nó sẽ hết lỗi:
 
-```javascript
+```react
 class ChilComponent extends React.Component {
     render() {
         return (
@@ -44,7 +44,7 @@ class ChilComponent extends React.Component {
 
 Tuy nhiên, thẻ đóng mở được thêm vào  này là điều chúng ta không thực sự mong muốn. Vì cấu trúc của chương trình ngày càng phức tạp, thì số lượng component và phân cấp của component ngày càng nhiều hơn. Hậu quả là, khi ReactJS render ra html, bạn sẽ rơi vào một "hố đen phân cấp" kiểu như này:
 
-```javascript
+```html
 <div class="level1">
     <div class="level2">
         <div class="level3">
@@ -62,7 +62,7 @@ Tuy nhiên, thẻ đóng mở được thêm vào  này là điều chúng ta kh
 
 Việc phân cấp thẻ div như thế này, thứ nhất là nhìn code html được render ra nhìn nó rất tệ, nhưng điều quan trọng hơn cả, là khiến cho việc bạn thiết kế css gần như sẽ thất bại về mặt tổ chức. Bạn thử hình dung lúc muốn truy cập vào một class name ở thẻ div trong cùng của "hố đen phân cấp kia" thì css của bạn cũng sẽ hoành tráng không kém:
 
-```
+```scss
 .level1{
     .level2{
         ...
@@ -82,7 +82,7 @@ Vậy, cách giải quyết vấn đề này là gì, rõ ràng là nó bị sin
 
 React Fragement được release vào cuối năm 2018 React v 16.2.0. Cách sử dụng nó hết sức đơn giản:
 
-```javascript
+```react
 class ChildComponent extends React.Component {
     render() {
         return (
@@ -109,16 +109,17 @@ class Component extends React.Component{
 
 Nếu như thay dùng thẻ div thay vì React Fragment, thì kết quả render sẽ ra như thế này:
 
-```javascript
+```html
 <div class="main">
-    <div className="topnav"/>
+    <div class="topnav"/>
     <div>
-        <div className="header"/>
-        <div className="content"/>
+        <div class="header"/>
+        <div class="content"/>
     </div>
-    <div className="footer"/>
+    <div class="footer"/>
 </div>
-#css:
+```
+```scss
 .main{
 	.topnav{}
 	div{
@@ -130,14 +131,15 @@ Nếu như thay dùng thẻ div thay vì React Fragment, thì kết quả render
 ```
 
 Tuy nhiên, vì chúng ta dùng Fragment, nên kết quả sẽ render ra như sau:
-```javascript
+```html
 <div class="main">
-    <div className="topnav"/>
-    <div className="header"/>
-    <div className="content"/>
-    <div className="footer"/>
+    <div class="topnav"/>
+    <div class="header"/>
+    <div class="content"/>
+    <div class="footer"/>
 </div>
-#scss
+```
+```scss
 .main{
 	.topnav{}
 	.header{}
