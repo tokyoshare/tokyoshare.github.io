@@ -20,6 +20,7 @@ And, how lucky I am, I already found a best way to active it without install any
 
 3. Save it as a batch file , name “1click.cmd”
 ![](/images/blog/active-window/2.jpg)
+
 ***Note*** : IF you use windows 10, you save it as .bat (named “1click.bat”)
 
 
