@@ -42,8 +42,17 @@
 	<div id='content-home'>
 		<div id='posts'>
 			<ul>
-				{% set posts = site.categories.blog|list + site.categories.dev|list + site.categories.aws|list + site.categories.tips|list %}
-				{% for post in posts%}
+				{% assign posts = site.categories.blog %}
+				{% for post in site.categories.aws %}
+				{% assign posts = posts | push: post %}
+				{% endfor %}
+				{% for post in site.categories.dev %}
+				{% assign posts = posts | push: post %}
+				{% endfor %}
+				{% for post in site.categories.tips %}
+				{% assign posts = posts | push: post %}
+				{% endfor %}
+				{% for post in posts %}
 				<li class='post'>
 					{% if post.image %}
 					<a href='{{post.url}}'><img class='post-image' src="{{post.image}}" /></a>
