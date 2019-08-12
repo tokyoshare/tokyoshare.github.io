@@ -2,7 +2,7 @@
 layout: blog
 title: Responsive HTML bằng một dòng CSS
 category: dev
-tags: [NodeJS, CSV, JSON]
+tags: [CSS, Grid, Responsive]
 summary: Cách sử dụng CSS Grid để tạo ra một lưới hình ảnh cực hay
 image: /images/blog/css.png
 ---
@@ -136,4 +136,3 @@ Kết quả thu được:
 ![](/images/blog/css.png)
 
 (Sưu tầm)
-
