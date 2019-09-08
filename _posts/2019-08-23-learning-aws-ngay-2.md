@@ -9,7 +9,7 @@ image: /images/blog/aws2.png
 
 # AWS gồm có những gì
 
-![](E:\WebProjects\Tokyoshare\images\blog\aws8.png)
+![](/images/blog/aws8.png)
 
 AWS gồm rất nhiều service phục vụ cho hầu hết các mảng. Các service này sẽ được gom lại theo group tính năng. Ví dụ như group Compute sẽ bao gồm những service cung cấp khả năng điện toán (computing) cho hệ thống, trong khi group Storage lại cung cấp những service chuyên phục vụ cho việc lưu trữ. Tương tự thế với group Databases và những mảng khác. Hiện nay, AWS có tổng cộng hơn 2000 service và tính năng. Một con số thực sự khủng khiếp, đấy cũng là lý do tại sao nó lại dẫn đầu trong thị trường điện toán đám mây.
 
