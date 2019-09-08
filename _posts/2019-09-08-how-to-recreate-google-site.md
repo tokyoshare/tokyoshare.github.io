@@ -14,9 +14,11 @@ image: /images/blog/material-icon/1.png
 
 Nếu như bạn nào đã từng làm web chắc hẳn các bạn biết đến chuẩn Material Design của Google. Đây là chuẩn chung mà Google xây dựng lên để dùng cho việc thiết kế giao diện web, mobile app theo các nguyên lý thiết kế cơ bản dựa trên các khối màu. Hiện nay Google áp dụng chuẩn thiết kế này cho hầu hết các dịch vụ của mình.
 
- Bạn có thể truy cập vào trang http://material.io để biết thêm thông tin. Trang web này là một hệ thống các chỉ dẫn, components và tool cho phép người dùng tạo các thiết kế giao diện phù hợp theo chuẩn Material Design. 
+Bạn có thể truy cập vào trang http://material.io để biết thêm thông tin. Trang web này là một hệ thống các chỉ dẫn, components và tool cho phép người dùng tạo các thiết kế giao diện phù hợp theo chuẩn Material Design. 
 
-Một trong những tool mà mình hay sử dụng nhất trên trang của google là http://material.io/icons, dùng để tìm kiếm các icon theo chuẩn Material Design. Tuy nhiên, điểm mình ghét nhất của trang này là nó rất khó để tra cứu. 
+Tool mà mình hay sử dụng nhất trên trang của google là http://material.io/icons, dùng để tìm kiếm các icon theo chuẩn Material Design.
+
+Tuy nhiên, điểm mình ghét nhất của trang này là nó rất khó để tra cứu. 
 
 Hơn nữa, hiện nay mình làm ReactJS đang dùng  Material-UI framework (đây là thư viện các components cho ReactJS viết theo chuẩn Material Design của Google.). 
 
@@ -101,7 +103,7 @@ Do đó mình quyết định viết bằng ReactJS, xử dụng thêm một s�
 
 Cả chương trình này mình cũng chỉ viết tầm chưa đến 1000 dòng code. Source code của chương trình này mình up lên ở đây 
 
-[Link]: https://github.com/tokyoshare/icons
+`https://github.com/tokyoshare/icons`
 
 (Code hơi thối vì code theo dòng suy nghĩ, ko có comment, mong mọi người thông cảm =))).:
 
