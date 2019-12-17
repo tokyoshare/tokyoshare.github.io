@@ -2,4 +2,4 @@
 
 Sharing is caring
 
-https://tokyoshare.github.io
+https://toolhub.dev/
