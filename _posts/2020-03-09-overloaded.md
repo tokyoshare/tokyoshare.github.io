@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: DevOps là gì?
+title: Lượm lặt:Overloaded
 category: blog
 tags: [Schedule, Time management]  
-summary: Lượm lặt-Overloaded
+summary: Vì sao chúng ta luôn bị stress và quá tải công việc
 image: /images/blog/piled-high-in-paperwork.jpg
 ---
 
