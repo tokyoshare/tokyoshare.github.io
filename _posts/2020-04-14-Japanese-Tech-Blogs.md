@@ -3,7 +3,7 @@ layout: blog
 title: Japanese Tech Media & Blogs
 category: blog
 tags: [Blog, Media]  
-summary: Collect some of famous tech media & blogs
+summary: Collection of some famous tech media & blogs
 image: https://lh3.googleusercontent.com/proxy/_qKwp5ugP-RtCTxr6ImkVqJlEbhCvV9lv8sXXBE8vhDfbn4OUZHFdCSkYOSyKP6yVrpZOjWAMICosNbpNkzO7WapQ7EbRcbrRv5emYoiZYiDFnSdk5h9BhsR-Li_gbsecMxxE_nWiV1wqXW4UzySQs5pQATFho5OuXeSlWWKTaa5fFojFCzLb2qxu69XypcUaQ2F5rrAN-YGrFZ2vdnzgZZOipI
 ---
 
