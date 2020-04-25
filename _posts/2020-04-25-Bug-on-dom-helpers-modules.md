@@ -14,7 +14,7 @@ ERROR in ../node_modules/react-transition-group/esm/CSSTransition.js
 Module not found: Error: Can't resolve 'dom-helpers/addClass' in '.../node_modules/react-transition-group/esm'
  @ ../node_modules/react-transition-group/esm/CSSTransition.js 5:0-47 13:11-22
 ```
-It's not comfortable with me, because I know there is a conflicting in version of `dom-helpers`. After checked, I realized Material-UI
+It's not comfortable with me, because I know there is a conflict in version of `dom-helpers`. After checked, I realized Material-UI
 has react-transition-group dependency of dom-helpers "5.1.3", and there are other modules, which is using lower version of `docker-helpers`. 
 
 So I fix that bug like this:
