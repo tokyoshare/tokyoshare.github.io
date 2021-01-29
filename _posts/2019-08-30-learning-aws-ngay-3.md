@@ -26,6 +26,7 @@ image: /images/blog/aws2.png
 | Time Limit       | 2 hours 10 minutes (130 minutes)                     |
 | Format           | Scenario-based. Multiple choice/multiple answers.    |
 | Delivery Method  | Testing center or online proctored exam              |
+|                  |                                                      |
 
 
 
