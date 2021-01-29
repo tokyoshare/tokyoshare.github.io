@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Học AWS trong 30 ngày (Ngày 3)
+title: Học AWS trong 30 ngày (Ngày 2)
 category: aws
 tags: [AWS, Certification]
 summary: Overview về kỳ thi SSA
