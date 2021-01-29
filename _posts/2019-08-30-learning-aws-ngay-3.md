@@ -12,6 +12,7 @@ image: /images/blog/aws2.png
 - 2020 March: AWS released yet another version of the exam (SAA-C02).
 
 ## Exam detail
+
 | Title            | Content                                              |
 | :--------------- | ---------------------------------------------------- |
 | Exam Code        | SAA-C02                                              |
@@ -25,6 +26,7 @@ image: /images/blog/aws2.png
 | Time Limit       | 2 hours 10 minutes (130 minutes)                     |
 | Format           | Scenario-based. Multiple choice/multiple answers.    |
 | Delivery Method  | Testing center or online proctored exam              |
+
 
 
 > Don’t be confused if you see in your Pearson Vue booking that the duration is 140 minutes since they included an additional 10 minutes for reading the Non-Disclosure Agreement (NDA) at the start of the exam and the survey at the end of it. If you booked in PSI, the exam duration time that you will see is 130 minutes.
