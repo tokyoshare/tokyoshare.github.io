@@ -4,7 +4,7 @@ title: Japanese Tech Media & Blogs
 category: blog
 tags: [Blog, Media]  
 summary: Collection of some famous tech media & blogs
-image: https://lh3.googleusercontent.com/proxy/_qKwp5ugP-RtCTxr6ImkVqJlEbhCvV9lv8sXXBE8vhDfbn4OUZHFdCSkYOSyKP6yVrpZOjWAMICosNbpNkzO7WapQ7EbRcbrRv5emYoiZYiDFnSdk5h9BhsR-Li_gbsecMxxE_nWiV1wqXW4UzySQs5pQATFho5OuXeSlWWKTaa5fFojFCzLb2qxu69XypcUaQ2F5rrAN-YGrFZ2vdnzgZZOipI
+image: https://images.squarespace-cdn.com/content/v1/533119dfe4b09837d5a2f076/1600431695207-DKXKQ4JD2Z4T7GWA2NK5/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p52bY8kZn6Mpkp9xtPUVLhvLurswpbKwwoDWqBh58NLxQZMhB36LmtxTXHHtLwR3w/Shibuya+Sky+Observation+Deck+-+Shibuya+Tokyo+Japan
 ---
 
 Tech Media & Blogs
