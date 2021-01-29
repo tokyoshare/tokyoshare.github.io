@@ -11,7 +11,7 @@ image: /images/blog/aws2.png
 - 2018 February: launch an updated version of the AWS Certified Solutions Architect - Associate certification with an exam code of SAA-C01. 
 - 2020 March: AWS released yet another version of the exam (SAA-C02).
 
-## Exam detail
+### Exam detail
 
 | Title            | Content                                              |
 | :--------------- | ---------------------------------------------------- |
@@ -32,10 +32,10 @@ image: /images/blog/aws2.png
 
 > Don’t be confused if you see in your Pearson Vue booking that the duration is 140 minutes since they included an additional 10 minutes for reading the Non-Disclosure Agreement (NDA) at the start of the exam and the survey at the end of it. If you booked in PSI, the exam duration time that you will see is 130 minutes.
 
-## Exam domains
+### Exam domains
 ![Domain](https://github.com/tokyoshare/learning-aws-in-30days/raw/master/domain.png)
 
-## Exam Score System
+### Exam Score System
 
 **Score Range**: 100-1000
 
@@ -60,7 +60,7 @@ image: /images/blog/aws2.png
  - un-limit on exam attempts (until you pass the exam).
 
 
-## Exam Benefits
+### Exam Benefits
 If you successfully passed any AWS exam, you will be eligible for the following benefits: 
 
 ● **Exam Discount** - You’ll get a 50% discount voucher that you can apply for your recertification or any other exam you plan to pursue. To access your discount voucher code, go to the “Benefits” section of your AWS Certification Account, and apply the voucher when you register for your next exam. 
