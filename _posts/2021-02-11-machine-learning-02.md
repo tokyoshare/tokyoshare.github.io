@@ -27,6 +27,8 @@ Tuy nhiên, trong những năm gần đây, Python lại nổi lên như một n
 
 Sau đây là những thư viện hay được sử dụng trong ML:
 
+![ML Library](https://cdn-media-1.freecodecamp.org/images/1*SltpaprT6Vc6IhQqVsYKtA.png)
+
 ### [Numpy](https://numpy.org)
 
 NumPy (Numerical Python) là một thư viện nguồn mở Python, nó được dùng trong hầu hết mọi khía cạnh của khoa học và kỹ thuật. Nó trở thành một chuẩn chung để làm việc với các dữ liệu số trong Python, và nó cũng góp phần tạo nên nền tảng của hệ sinh thái PyData và Python dùng trong khoa học. Người dùng Numpy có thể là bất kì ai, từ những lập trình viên non trẻ cho tới những nhà nghiên cứu nhiều kinh nghiệm. Numpy API cũng được dùng trong các thư viện Pandas, SciPy, Matplotlib, scikit-learn, scikit-image mà hầu hết các thư viện Python dùng cho khoa học dữ liệu.
