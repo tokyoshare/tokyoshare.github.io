@@ -9,9 +9,11 @@ author_img_name_path: "/images/users/user.jpg"
 disqus_shortname: "tokyoshare"
 copyright_year: "2019"
 google_analytics_code: "G-DHMTQVVJPQ"
-aboutme: "Share to make the world better"
+aboutme: "Sharing is caring"
 medium: "https://medium.com/@gdmaxcom"
 twitter: ""
 github: "tokyoshare"
 facebook: "huyho85"
 linkedin: "https://www.linkedin.com/in/christian-ho-0728495a/"
+
+theme: jekyll-theme-cayman

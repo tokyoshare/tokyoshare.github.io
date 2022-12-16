@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Học AWS trong 30 ngày (Ngày 2)
+title: Học AWS trong 30 ngày (Ngày 3)
 category: aws
 tags: [AWS, Certification]
 summary: AWS gồm có những gì và Associate Cert sẽ thi những phần nào
