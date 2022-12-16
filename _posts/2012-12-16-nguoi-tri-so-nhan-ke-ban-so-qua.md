@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Đạo Phật thường thức-Bài 1-Người trí sợ nhân, kẻ bần sợ quả
+title: Đạo Phật thường thức-Bài 1-Hiểu về nhân quả "Người trí sợ nhân, kẻ bần sợ quả"
 category: tips
 tags: [Đạo Phật, HuyhocPhat]
 summary: 
