@@ -27,7 +27,7 @@ Nội dung thư như sau:
 
 Tôi đã xem lại sơ yếu lý lịch của mình.
 
-**“ *Thành lập một công ty trong lĩnh vực sản xuất video”** -* đúng vậy, nhưng thực ra ngày nay ai cũng có thể thành lập công ty. Trở thành một doanh nhân thật dễ dàng: hãy nộp đơn cho một công ty trách nhiệm hữu hạn và bạn là một doanh nhân.
+**“ *Thành lập một công ty trong lĩnh vực sản xuất video* ”** - đúng vậy, nhưng thực ra ngày nay ai cũng có thể thành lập công ty. Trở thành một doanh nhân thật dễ dàng: hãy nộp đơn cho một công ty trách nhiệm hữu hạn và bạn là một doanh nhân.
 
 **“ *Tạo một chương trình trên YouTube và phỏng vấn 10 doanh nhân hàng đầu của Đông Âu* ”** — cái này thú vị hơn, nhưng ai cũng có thể phỏng vấn người khác. Không có thành tích, chỉ có việc làm.
 
