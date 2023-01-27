@@ -4,7 +4,7 @@ title: Machine Learning Series-Bài 2.
 category: dev
 tags: [Machine Learning, AI, Deep Learning]
 summary: Python và các thư viện ML
-image: https://numpy.org/images/logos/numpy.svg
+image: https://www.pythontutorial.net/wp-content/uploads/2022/08/what-is-numpy.png
 
 ---
 
