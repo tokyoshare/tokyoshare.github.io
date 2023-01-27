@@ -23,7 +23,7 @@ Nội dung thư như sau:
 - *Có phải tất cả các dự án của tôi cho đến nay - không gì khác hơn là cố gắng làm nhiều hơn để nhận được nhiều hơn?*
 - *Tôi đã đạt được bất cứ điều gì đáng kể trong 5 năm qua?*
 - *Tôi có thực sự là 'Người chăm chỉ' không? Nếu vậy, tại sao?*
-- *Đâu là **sự** khác biệt thực sự giữa 'Người chăm chỉ' và 'Người thành công'?*
+- *Đâu là sự khác biệt thực sự giữa 'Người chăm chỉ' và 'Người thành công'?*
 
 Tôi đã xem lại sơ yếu lý lịch của mình.
 

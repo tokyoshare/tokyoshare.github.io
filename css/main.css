@@ -199,21 +199,24 @@ a#logo_docs {
 }
 
 #posts ul li img {
-  //width: 95%;
+  /* //width: 95%; */
 }
 
 .post-title {
   margin: 0 0 8px;
   line-height: 20px;
-  font-size: 20px;
+  font-size: 18px;
   padding: 10px;
+  font-family: 'Noto Sans';
+  font-weight: 900;
+  white-space: normal;
 }
 
 .post-image {
   width: 250px;
   box-shadow: 0 0 0 #cccccc;
   border-radius: 0;
-  //margin: 10px 0px 10px 0px;
+  /* //margin: 10px 0px 10px 0px; */
 }
 
 .post-date {
@@ -271,13 +274,14 @@ box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);*/
 #page-title {
   margin-top: 0;
   padding-top: 0;
-  font-size: 30px;
+  font-size: 50px;
   font-family: "Noto Sans", Georgia, Cambria, "Times New Roman", Times, serif;
-  font-weight: bold;
+  font-weight: 900;
   font-style: normal;
   letter-spacing: -.003em;
   text-decoration: underline;
-  text-decoration-color: #5cb767;
+  text-decoration-color: #ffcc00;
+  text-transform: uppercase;
 }
 
 #page {
