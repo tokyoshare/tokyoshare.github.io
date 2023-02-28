@@ -20,7 +20,7 @@ Trước khi có machine learning, mỗi hình ảnh sẽ được chuyển thà
 
 Nhưng, nó thất bại. Tại sao? 
 
-Vâng, như bạn có thể đoán, nó cần rất nhiều quy tắc, phụ thuộc nhiều vào bộ dữ liệu hiện tại, và không đủ khái quát để phát hiện các trường hợp ngoài mẫu. 
+Vâng, như bạn có thể đoán, nó cần rất nhiều quy tắc, phụ thuộc nhiều vào bộ dữ liệu hiện tại, và không đủ khái quát để phát hiện các trường hợp ngoài tập mẫu. 
 
 Đây là khi machine learning xuất hiện. 
 
